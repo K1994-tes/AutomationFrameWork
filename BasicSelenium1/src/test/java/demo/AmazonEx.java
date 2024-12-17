@@ -19,6 +19,7 @@ public  void AmazonEx ()
 //        driver.findElement(By.cssSelector("#twotabsearchtextbox")).sendKeys("puma");
 //        driver.findElement(By.cssSelector("input#nav-search-submit-button")).click();
 	//pull back
+        //push back
         
   }
 }
